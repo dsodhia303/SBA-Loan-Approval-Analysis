@@ -4,3 +4,9 @@ There have been many success stories of start-ups receiving SBA loan guarantees 
 
 Content
 Shape of the data: 899164 rows and 27 columns
+
+
+Achievements:
+
+•	Analyzed Kaggle SBA dataset using Python, scikit-learn, Pandas, and Jupyter Notebooks, achieving 82.07% accuracy with Logistic Regression, improving prediction accuracy by 15%.
+•	Conducted data preprocessing, feature engineering, and model performance evaluation, enhancing economic resilience by improving loan outcome predictions by 10%.
